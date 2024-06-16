@@ -1,6 +1,6 @@
 :: this bat file is used to set git repository
 :: to run use .\set_git.bat
-@echo off
+:: @echo off
 :: add :: before the next row to initialize the repository
 
 git init
